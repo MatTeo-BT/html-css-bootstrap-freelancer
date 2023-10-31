@@ -1,0 +1,22 @@
+
+/* *{
+border: 1px solid black;
+}  */
+.my_header{
+    background-color: #2C3E50;
+    height: 100px;
+}
+.my_jumbo{
+    background-color: #1BBC9B;
+    height: 500px;
+}
+.my_portfolio{
+    height: 200px;
+}
+.my_cards{
+    height: 400px;
+}
+.wine{
+    background-color: #BA4B63;
+    
+}
