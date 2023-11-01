@@ -18,5 +18,38 @@ border: 1px solid black;
 }
 .wine{
     background-color: #BA4B63;
-    
+}
+.cyan{
+    background-color: #1FA4B6;
+
+}
+.black{
+    background-color: black;
+}
+.light-blue{
+    background-color: #1C83C1;
+}
+.blue{
+    background-color: #0F37B5;
+
+}
+.sand{
+    background-color: #CCB2A3;
+}
+.my_about{
+    height: 550px;
+}
+.green{
+    background-color: #1DBB9A;
+}
+.my_contact{
+    height: 450px;
+}
+.my_footer_container{
+    background-color: #39546D;
+    height: 500px;
+}
+.copyright{
+    height: 100px;
+    background-color: #2C3E50;
 }
