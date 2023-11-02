@@ -7,14 +7,18 @@ border: 1px solid black;
     height: 100px;
 }
 .my_jumbo{
-    background-color: #1BBC9B;
     height: 500px;
 }
+.my_jumbo img{
+    width: 50%;
+}
+
 .my_portfolio{
     height: 200px;
 }
 .my_cards{
     height: 400px;
+    border-radius: 1rem;
 }
 .wine{
     background-color: #BA4B63;
@@ -38,18 +42,31 @@ border: 1px solid black;
 }
 .my_about{
     height: 550px;
+    
 }
 .green{
     background-color: #1DBB9A;
+    color: white;
 }
 .my_contact{
     height: 450px;
 }
 .my_footer_container{
     background-color: #39546D;
-    height: 500px;
+    height: 400px;
 }
 .copyright{
     height: 100px;
     background-color: #2C3E50;
 }
+@media screen and (min-width: 992px){
+    .my_wrapper{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .my_wrapper-big{
+        width: 70%;
+        margin: 0 auto;
+    }
+} 
+    
